@@ -1,0 +1,7 @@
+.navbar { display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: #0d6efd; color: #fff; }
+.brand { font-weight: 700; margin-right: 12px; }
+.nav-left { display: flex; gap: 12px; align-items: center; }
+.nav-link { color: #fff; text-decoration: none; opacity: 0.9; }
+.nav-link.active { text-decoration: underline; opacity: 1; }
+.logout-btn { background: #dc3545; border: none; padding: 6px 12px; color: #fff; border-radius: 4px; }
+
