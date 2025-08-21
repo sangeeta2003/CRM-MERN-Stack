@@ -114,5 +114,4 @@ Atlas notes
 - Role-based access control (RBAC)
 - CI/CD and production deployments (Render/Vercel + MongoDB Atlas)
 
-## Screenshots
-See `Frontend/Screenshots/` for UI screenshots.
+
